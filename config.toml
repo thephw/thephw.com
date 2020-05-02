@@ -1,0 +1,5 @@
+baseURL = "https://thephw.com"
+languageCode = "en-us"
+title = "ThePHW"
+theme = "split"
+

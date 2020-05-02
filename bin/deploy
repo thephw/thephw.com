@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+set -e
+
+cd "$(dirname "$0")/.."
+
+describe() {
+  echo "===> $1…"
+}
+
+squelch() {
+  $@ > /dev/null 2>&1
+}
+
+describe "Deploying"
+hugo && firebase deploy
