@@ -26,11 +26,14 @@ twitterHandle = "thephw"
       text = "🐦 Twitter"
       url = "https://twitter.com/thephw"
     [[params.links.list1.link]]
-      text = "📸 Instagram"
-      url = "https://instagram.com/thephw"
+      text = "⌨️ Github"
+      url = "https://github.com/thephw"
     [[params.links.list1.link]]
       text = "👨‍💼 LinkedIn"
       url = "https://linkedin.com/in/thephw"
+    [[params.links.list1.link]]
+      text = "📸 Instagram"
+      url = "https://instagram.com/thephw"
 
   [params.links.list2]
     heading = "Content"
@@ -46,6 +49,8 @@ twitterHandle = "thephw"
     [[params.links.list2.link]]
       text = "🪑 Woodworking"
       url = "#"
+    [[params.links.list2.link]]
+      text = "📷 Photos"
 
   [params.links.list3]
     heading = "Good Company"

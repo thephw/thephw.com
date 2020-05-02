@@ -5,4 +5,4 @@ draft: true]
 tagline: "Technologist. Entrepreneur. Producer of tomfoolery. 🍻"
 ---
 # Patrick Howard Wiseman
-Patches has had a colorful career pursuing the unrequited love of new technology. He has been described by his peers as professionally competent, technically adequate, and often irreverent. 
+Patches has had a colorful career pursuing the unrequited love of new technology. He has been described by his peers as technically adequate and often irreverent. 
