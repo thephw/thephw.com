@@ -6,13 +6,13 @@ favicon = "favicon.ico"
 languageCode = "en-us"
 shareImage = "images/cover1.jpg"
 theme = "split"
-title = "ThePHW"
+title = "ThePHW™"
 twitterHandle = "thephw"
 
 
 [params.visual.image]
   enable = true
-  file = "images/cover6.jpg"
+  file = "images/cover5.jpg"
   position = "center left"
 
 # Links List #1
