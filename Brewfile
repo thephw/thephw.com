@@ -14,9 +14,7 @@ brew "unixodbc"
 brew "unzip"
 brew "curl"
 brew "gpg"
-
 # Dependency for the bootstrap script
 brew "jq"
-
 # Project dependency
 brew "hugo"

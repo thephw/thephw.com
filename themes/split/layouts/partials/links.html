@@ -1,8 +1,6 @@
 <div class="split-lists">
-
   {{ range $key, $value := .Site.Params.links }}
     {{ range $key, $list := $value }}
-
     {{ if $list.link }}
       <div class="split-list">
         <h3>{{ $list.heading }}</h3>
@@ -13,8 +11,6 @@
         </ul>
       </div>
     {{ end }}
-
     {{ end }}
   {{ end }}
-
 </div>

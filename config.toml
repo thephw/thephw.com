@@ -1,5 +1,37 @@
+author = "Jenny Jones"
 baseURL = "https://thephw.com"
+copyright = "&copy;2020 Patrick Wiseman"
+description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+favicon = "favicon.ico"
 languageCode = "en-us"
-title = "ThePHW"
+shareImage = "images/cover1.jpg"
 theme = "split"
+title = "ThePHW"
+twitterHandle = "thephw"
 
+[params.custom.css]
+  enable = true
+
+[params.visual.image]
+  enable = true
+  file = "//images/cover1.jpg"
+
+# Links List #1
+[[params.links]]
+  [params.links.list1]
+    heading = "Connect"
+    [[params.links.list1.link]]
+      text = "Blog"
+      url = "#"
+    [[params.links.list1.link]]
+      text = "Email"
+      url = "mailto:me@thephw.com"
+    [[params.links.list1.link]]
+      text = "Twitter"
+      url = "https://twitter.com/thephw"
+    [[params.links.list1.link]]
+      text = "LinkedIn"
+      url = "https://linkedin.com/in/thephw"
+    [[params.links.list1.link]]
+      text = "Instagram"
+      url = "https://instagram.com/thephw"

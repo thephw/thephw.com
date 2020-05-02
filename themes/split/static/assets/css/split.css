@@ -28,35 +28,28 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
-
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
-
 body {
   line-height: 1;
 }
-
 ol, ul {
   list-style: none;
 }
-
 blockquote, q {
   quotes: none;
 }
-
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: "";
   content: none;
 }
-
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -64,7 +57,6 @@ table {
   -moz-font-feature-settings: "liga" on;
   margin: 0;
 }
-
 img.alignright {
   float: right;
 }
@@ -77,19 +69,16 @@ img.aligncenter {
   margin-right: auto;
   margin-left: auto;
 }
-
 body {
   background-color: #FFFFFF;
   border-style: none;
 }
-
 body,
 p,
 a,
 a:hover {
   color: #000000;
 }
-
 a,
 a:hover {
   text-decoration: none;
@@ -97,7 +86,6 @@ a:hover {
   border-style: none;
   box-shadow: none;
 }
-
 /* -- Content -- */
 @keyframes fadein {
   from {
@@ -110,7 +98,6 @@ a:hover {
 html {
   background-color: #061C30;
 }
-
 body.page-template-page-fullsingle-split {
   background-color: #061C30;
   font-family: "Montserrat", sans-serif;
@@ -124,7 +111,6 @@ body.page-template-page-fullsingle-split {
 body.page-template-page-fullsingle-split p {
   color: #848d96;
 }
-
 .fs-split {
   width: 100vw;
   height: 100vh;
@@ -177,7 +163,6 @@ body.page-template-page-fullsingle-split p {
     padding: 40px;
   }
 }
-
 .split-intro {
   font-weight: 600;
   font-size: 64px;
@@ -196,7 +181,6 @@ body.page-template-page-fullsingle-split p {
 .split-intro .tagline {
   color: #CCCCCC;
 }
-
 .split-bio {
   padding: 40px 0 20px 0;
   font-family: "Lora", serif;
@@ -323,7 +307,6 @@ body.page-template-page-fullsingle-split p {
 .split-bio dl dd {
   margin-bottom: 10px;
 }
-
 .split-lists .split-list {
   width: 30%;
   display: inline-block;
@@ -358,7 +341,6 @@ body.page-template-page-fullsingle-split p {
   color: #CA486d;
   transition-duration: 0.1s;
 }
-
 .split-credit {
   opacity: 0.4;
 }
@@ -369,19 +351,16 @@ body.page-template-page-fullsingle-split p {
 .split-credit p a {
   color: #848d96;
 }
-
 .split-video {
   overflow: hidden;
   position: relative;
 }
-
 .video-wrap {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 .video-container {
   position: relative;
   overflow: hidden;
@@ -394,7 +373,6 @@ body.page-template-page-fullsingle-split p {
     width: 177.7777777778vh;
   }
 }
-
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -404,7 +382,6 @@ body.page-template-page-fullsingle-split p {
   width: 100%;
   height: 100%;
 }
-
 video.video {
   object-fit: cover;
   object-position: 50% 50%;
