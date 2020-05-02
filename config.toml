@@ -9,12 +9,11 @@ theme = "split"
 title = "ThePHW"
 twitterHandle = "thephw"
 
-[params.custom.css]
-  enable = true
 
 [params.visual.image]
   enable = true
-  file = "//images/cover1.jpg"
+  file = "images/cover6.jpg"
+  position = "center left"
 
 # Links List #1
 [[params.links]]
