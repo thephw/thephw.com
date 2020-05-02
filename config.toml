@@ -18,19 +18,43 @@ twitterHandle = "thephw"
 # Links List #1
 [[params.links]]
   [params.links.list1]
-    heading = "Connect"
+    heading = "Social"
     [[params.links.list1.link]]
-      text = "Blog"
-      url = "#"
-    [[params.links.list1.link]]
-      text = "Email"
+      text = "💌 Email"
       url = "mailto:me@thephw.com"
     [[params.links.list1.link]]
-      text = "Twitter"
+      text = "🐦 Twitter"
       url = "https://twitter.com/thephw"
     [[params.links.list1.link]]
-      text = "LinkedIn"
-      url = "https://linkedin.com/in/thephw"
-    [[params.links.list1.link]]
-      text = "Instagram"
+      text = "📸 Instagram"
       url = "https://instagram.com/thephw"
+    [[params.links.list1.link]]
+      text = "👨‍💼 LinkedIn"
+      url = "https://linkedin.com/in/thephw"
+
+  [params.links.list2]
+    heading = "Content"
+    [[params.links.list2.link]]
+      text = "📕 Articles"
+      url = "#"
+    [[params.links.list2.link]]
+      text = "🖥 Code"
+      url = "#"
+    [[params.links.list2.link]]
+      text = "👨‍🍳 Recipes"
+      url = "#"
+    [[params.links.list2.link]]
+      text = "🪑 Woodworking"
+      url = "#"
+
+  [params.links.list3]
+    heading = "Good Company"
+    [[params.links.list3.link]]
+      text = "🚀 Spaceship"
+      url = "https://spaceship.run"
+    [[params.links.list3.link]]
+      text = "💼 Deft Services"
+      url = "https://deft.services"
+    [[params.links.list3.link]]
+      text = "🏕 Rails Camp South"
+      url = "https//us-south.rails.camp"
