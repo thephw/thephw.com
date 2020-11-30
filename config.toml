@@ -15,7 +15,6 @@ twitterHandle = "thephw"
   file = "images/cover5.jpg"
   position = "center left"
 
-# Links List #1
 [[params.links]]
   [params.links.list1]
     heading = "Social"
