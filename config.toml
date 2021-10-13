@@ -54,8 +54,8 @@ twitterHandle = "thephw"
   [params.links.list3]
     heading = "Good Company"
     [[params.links.list3.link]]
-      text = "🚀 Spaceship"
-      url = "https://spaceship.run"
+      text = "🌸 Flowerwork"
+      url = "https://flowerwork.io"
     [[params.links.list3.link]]
       text = "💼 Deft Services"
       url = "https://deft.services"
